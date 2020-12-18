@@ -6,6 +6,6 @@ public class Calc {
      }
      public void subs(int num1,int num2) {
     	 System.out.println("differnce:"+(num1-num2));
-         System.out.println("changes made"); 
+         System.out.println("changes done"); 
      }
 }
